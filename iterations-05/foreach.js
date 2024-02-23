@@ -1,4 +1,4 @@
-const coding =["js","css","cpp","html","python"]
+// const coding =["js","css","cpp","html","python"]
 
 // coding.forEach(function(item){
 //  console.log(item)
@@ -20,21 +20,33 @@ const coding =["js","css","cpp","html","python"]
 // })
 
 
-const mycoding=[
-    {
-        languageName:'javascript',
-        languagefile:'js'
-    },
-    {
-        languageName:'python',
-        languagefile:'py'
-    },
-    {
-        languageName:'java',
-        languagefile:'java'
-    }
-]
-mycoding.forEach((item)=>{
-    console.log(item.languageName)
-})
+// const mycoding=[
+//     {
+//         languageName:'javascript',
+//         languagefile:'js'
+//     },
+//     {
+//         languageName:'python',
+//         languagefile:'py'
+//     },
+//     {
+//         languageName:'java',
+//         languagefile:'java'
+//     }
+// ]
+// mycoding.forEach((item)=>{
+//     console.log(item.languageName)
+// })
+
+
+
+
+
+// const coding =["js","css","cpp","html","python"]
+// const values=coding.forEach((plang)=>{
+//     console.log(plang);
+// return item// its return undefined
+// })
+// console.log(values);//output return undefined
+
 
